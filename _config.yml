@@ -1,2 +1,1 @@
-markdown:   kramdown
-style:  davewhipp
+theme: jekyll-theme-minimal
