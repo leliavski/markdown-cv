@@ -8,6 +8,7 @@ title: Alexei Leliavski's CV
 <div id="webaddress">
 <a href="alexei.leliavski@gmail.com">alexei.leliavski@gmail.com</a>
    <a href="https://www.linkedin.com/in/alexei-leliavski-450a003b/">LinkedIn</a>
+      <a href="https://leliavski.github.io/">Github Pages</a>
 </div>
 
 ## Summary
