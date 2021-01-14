@@ -6,9 +6,9 @@ title: Alexei Leliavski's CV
 
 
 <div id="webaddress">
-<a href="alexei.leliavski@gmail.com">alexei.leliavski@gmail.com</a>
-   <a href="https://www.linkedin.com/in/alexei-leliavski-450a003b/">LinkedIn</a>
-      <a href="https://leliavski.github.io/">Github Pages</a>
+<a href="mailto:alexei.leliavski@gmail.com">alexei.leliavski@gmail.com</a> | 
+   <a href="https://www.linkedin.com/in/alexei-leliavski-450a003b/">LinkedIn</a>  | 
+      <a href="https://leliavski.github.io/">Back to Github Pages</a>
 </div>
 
 ## Summary
@@ -117,23 +117,11 @@ _the Gerhardt Hunsmann Fellowship for doctoral students_
 A complete list of publications with my contributions (20 in total) is available in [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=leliavski&sort=date) or [Google Scholar](https://scholar.google.com/citations?user=7vIaRk0AAAAJ&hl=en&oi=sra). _Asterisks_ (\*) below indicate that the authors contributed equally.
 
 
-__IgG Fc sialylation is regulated during the germinal center reaction following immunization with different adjuvants__
+Bartsch YC\*, Eschweiler S\*, Leliavski A\*, Lunding HB\*, Wagt S\*, Petry J, Lilienthal GM, Rahmöller J, de Haan N, Hölscher A, \[...\], Hölscher C, Wuhrer M, Ehlers M (__2020__) __IgG Fc sialylation is regulated during the germinal center reaction following immunization with different adjuvants__ J Allergy Clin Immunol. 146(3):652–666.e11.
 
-_Bartsch YC\*, Eschweiler S\*, Leliavski A\*, Lunding HB\*, Wagt S\*, Petry J, Lilienthal GM, Rahmöller J, de Haan N, Hölscher A, \[...\], Hölscher C, Wuhrer M, Ehlers M_
+Dumbell R\*, Leliavski A\*, Matveeva O, Blaum C, Tsang AH, Oster H (__2016__) __Dissociation of Molecular and Endocrine Circadian Rhythms in Male Mice Lacking Bmal1 in the Adrenal Cortex__ Endocrinology. 157(11):4222–4233.
 
-J Allergy Clin Immunol. (__2020__) 146(3):652–666.e11.
-
-__Dissociation of Molecular and Endocrine Circadian Rhythms in Male Mice Lacking Bmal1 in the Adrenal Cortex__
-
-_Dumbell R\*, Leliavski A\*, Matveeva O, Blaum C, Tsang AH, Oster H_
-
-Endocrinology. (__2016__) 157(11):4222–4233.
-
-__Impaired Glucocorticoid Production and Response to Stress in Arntl-Deficient Male Mice__
-
-_Leliavski A, Shostak A, Husse J, Oster H_
-
-Endocrinology. (__2014__) 155(1):133–142.
+Leliavski A, Shostak A, Husse J, Oster H (__2014__) __Impaired Glucocorticoid Production and Response to Stress in Arntl-Deficient Male Mice__ Endocrinology. 155(1):133–142.
 
 
 ## Reviews
@@ -155,4 +143,6 @@ Melnov SB, Leliavski AA, Marozik PM. (__2008__) __Stem Cell Biology and Genetics
 
 Last updated: January 2021 -->
 
+-----------------------------------------------------------------------------
+An original template for this CV by [Eliseo Papa](https://elipapa.github.io).
 
