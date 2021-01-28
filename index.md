@@ -36,9 +36,9 @@ Experimental biologist with 10+ years of academic research experience in several
 - 5+ years of programming experience in R/Bioconductor
 - establishing RNA-seq and proteomics analysis pipelines for several projects, implementing novel methods and packages
 - general data processing, analysis and visualization in R (tidyverse)
-- data reporting (Markdown and Shiny apps)
-- version control (Gitgub)
-- understanding machine learning methods
+- data reporting (Rmarkdown and Shiny apps)
+- basics of version control (Git and GitHub)
+- understanding of machine learning methods
 
 ## Soft skills
 
